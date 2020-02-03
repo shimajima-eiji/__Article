@@ -17,6 +17,7 @@
 - [Scoop と PackageManagement を使った Windows 環境の構築](https://qiita.com/kikuchi_kentaro/items/77793e4a21db6ffdb7cd): chocolateyでよくね？
 - [今すぐ試せるWindowsのダークテーマ設定](https://qiita.com/yokoyan/items/a7525235ef002d538dec): 地味に不便だった。個別にプラグイン入れよう
 - [HackMDってMarkdownEditorが革新的で使いやすい](https://qiita.com/norinity1103/items/85aa990dbe6582b6d701): VSCodeで拡張するか悩む
+- [Google Cloud Speech-to-Text APIでマイク入力からストリーミング音声認識をする](https://qiita.com/hamham/items/3733ac8cd9e3d7b9ccae): 昔考案したシステムがもうできてる
 
 # レビュー
 - [コードレビュー虎の巻](https://qiita.com/teradonburi/items/2fa475c860d0fb16c0eb)
