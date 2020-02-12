@@ -1,0 +1,2 @@
+リポジトリ名がQiitaなんで混同するけど、vivaldiのWebパネルもここ。
+なんでExport/Importして使えないんだろうなぁ
