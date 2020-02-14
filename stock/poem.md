@@ -1,5 +1,5 @@
 # VSCode
-エンジニアリング用ではないからVSCodカテには入れない。
+エンジニアリング用ではないからVSCodeカテには入れない。
 
 - [VSCodeでマインドマップを描こう](https://qiita.com/u-tanick/items/c178a759ab228eb1d64a)
 - [Markdown でシーケンス図を書いてHTMLに出力しよう](https://qiita.com/ksh-fthr/items/40ebbcdb67d126ac2202)
@@ -18,6 +18,7 @@
 - [今すぐ試せるWindowsのダークテーマ設定](https://qiita.com/yokoyan/items/a7525235ef002d538dec): 地味に不便だった。個別にプラグイン入れよう
 - [HackMDってMarkdownEditorが革新的で使いやすい](https://qiita.com/norinity1103/items/85aa990dbe6582b6d701): VSCodeで拡張するか悩む
 - [Google Cloud Speech-to-Text APIでマイク入力からストリーミング音声認識をする](https://qiita.com/hamham/items/3733ac8cd9e3d7b9ccae): 昔考案したシステムがもうできてる
+- [Gitコマンドチートシート TortoiseGit対応版](https://qiita.com/tetsurom/items/d83027799e220c0c3998): TortoiseGitでタグ乗せたかった時に
 
 # レビュー
 - [コードレビュー虎の巻](https://qiita.com/teradonburi/items/2fa475c860d0fb16c0eb)
