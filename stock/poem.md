@@ -1,3 +1,9 @@
+# 事始め
+ツール・サービスと混同しやすいのでサブカテゴリに。
+
+- [AtCoder に登録したら次にやること ～ これだけ解けば十分闘える！過去問精選 10 問 ～](https://qiita.com/drken/items/fd4e5e3630d0f5859067): [元記事](https://zono-0317.hatenablog.com/entry/2018/04/15/172250)と、更に[AtCoder Beginners Selection（公式）](https://atcoder.jp/contests/abs)
+
+
 # VSCode
 エンジニアリング用ではないからVSCodeカテには入れない。
 
@@ -33,8 +39,8 @@
 - [文章の書き方をプロ並みにする文章作成ツール5選](https://qiita.com/busyoumono99/items/01348bcdd8f40cc392c5#_reference-4c67286ac470033f12fd): リンク先も良さげ
 
 # ネタ
-- [](https://qiita.com/TaKO8Ki/items/f7812f3164e00199bda6)
-
+- [誰でも新卒年収800万宣言できる、Twitter就活サービス「Negomo（ネゴモ）」をリリースした。【個人開発】](https://qiita.com/TaKO8Ki/items/f7812f3164e00199bda6): 要Twitter
+- [受付に何もない受付システムができた。](https://qiita.com/YuichiroMinato/items/b1fff8acd85681d7a2cc): 発想はガチ。参考になる。
 # 長文・シリーズ
 読むのに体力がいるやつは全部ここ。
 - [Firebaseの始め方](https://qiita.com/kohashi/items/43ea22f61ade45972881): 気合がいるぞ
