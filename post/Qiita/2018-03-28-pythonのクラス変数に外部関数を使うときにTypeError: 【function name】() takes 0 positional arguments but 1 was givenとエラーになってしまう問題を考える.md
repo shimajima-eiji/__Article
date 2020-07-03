@@ -1,6 +1,6 @@
 [公開先](https://qiita.com/nomurasan/items/f8b749930ed0af16d76c)
 
-# pythonのクラス変数に外部関数を使うときにTypeError: [function name]() takes 0 positional arguments but 1 was givenとエラーになってしまう問題を考える
+# pythonのクラス変数に外部関数を使うときにTypeError: 【function name】() takes 0 positional arguments but 1 was givenとエラーになってしまう問題を考える
 タイトルが長いですが、言いたい事はそのままです。
 
 ## 問題
