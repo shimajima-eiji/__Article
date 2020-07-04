@@ -61,3 +61,29 @@ find $dir_path -type f -name "*.${expansion_input}" | xargs -P ${processor} -I@ 
 
 重要なのは備考部分で、色々と不安定な状態のものをメンテすると大変だからサービスとして公開する以上は無料ではなく有償としているのだろう、という事が窺えるのでお金取るな！という話をするつもりはない。
 ただし、一般利用者（特に非プログラマー）としてはそこまで神経質にならず、とりあえず使えるものがあればそれで良いので、そういったニーズに応えても良いのでは？と思う。
+
+# ボツ案
+最初は使い慣れているpythonでやろうとしたところ、日本語文字や特殊文字にメチャクチャ弱かったので諦めた…。
+
+```
+import sys, subprocess
+from pathlib import Path
+
+print(len(sys.argv))
+if len(sys.argv) < 2:
+  print('[Require] 引数にファイルパスが必要です')
+  exit()
+
+input_file=Path(sys.argv[1])
+
+if not input_file.exists():
+  exit()
+
+output_file=Path(input_file.stem + ".jpg")
+if output_file.exists():
+  print('Skip ' + input_file.name)
+  exit()
+
+subprocess.run(["magick.exe", '\"' + input_file.name + '\"', '\"' + output_file.name + '\"'])
+print("Complete %s -> %s" % (input_file, output_file))
+```
