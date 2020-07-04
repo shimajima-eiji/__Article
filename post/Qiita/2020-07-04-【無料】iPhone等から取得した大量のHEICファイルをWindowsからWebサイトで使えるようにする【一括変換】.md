@@ -36,7 +36,7 @@ export expansion_input='HEIC'
 export expansion_output='jpg'
 export magick_path='magick'  # magickのパスを再設定できる。WSLならmagick.exeか
 
-# 以下は高度な変更不可
+# 以下は技術者以外は変更を非推奨
 function execute {
   input=$1
   output="${input%.$expansion_input}.${expansion_output}"
