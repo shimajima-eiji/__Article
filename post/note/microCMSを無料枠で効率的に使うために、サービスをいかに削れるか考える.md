@@ -30,4 +30,4 @@ microCMSの公式：料金設定（https://microcms.io/pricing/）に従いま�
 ![許可設定](https://user-images.githubusercontent.com/15845907/87510688-fe395200-c6ae-11ea-9dad-6314d3132a98.png)
 ![コンテンツ](https://user-images.githubusercontent.com/15845907/87510691-ff6a7f00-c6ae-11ea-8411-09caa8d60854.png)
 
-[有料部分]()
+[有料部分](https://github.com/shimajima-eiji/Personal/blob/master/article/note/microCMSを無料枠で効率的に使うために、サービスをいかに削れるか考える.md)
