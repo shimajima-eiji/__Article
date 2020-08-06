@@ -1,6 +1,7 @@
 ## 更新履歴
 
-### 最終更新 2020年8月6日
+### 最終更新 2020年8月7日
+- [90cd6fb](https://github.com/shimajima-eiji/Article/commit/90cd6fb92b0024a426f2cadebb5bfd2405bc85e5) [2020/08/06][CHANGELOG] 最新化 (@shimajima-eiji)
 - [fcf3ffa](https://github.com/shimajima-eiji/Article/commit/fcf3ffa755d022a7bb6fdcc08843566a6326af45) Create 2020-07-27-バースデープレゼントやお祝いをくれる友達のために自分ができることを考える.md (@shimajima-eiji)
 - [fa71e63](https://github.com/shimajima-eiji/Article/commit/fa71e63ac1318ce49e190f44b969342d12eab9f9) Create 2020-07-24-「カタンの開拓者たち」をソロプレイでずっと遊び続けられるステキアプリを見つけた！.md (@shimajima-eiji)
 - [ee4ce02](https://github.com/shimajima-eiji/Article/commit/ee4ce029d480742e77ed3865e918fa0b74251654) Create 2020-07-24-ボードゲームアリーナ（BGA）に参戦しました！.md (@shimajima-eiji)
