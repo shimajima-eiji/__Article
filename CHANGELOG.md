@@ -1,6 +1,7 @@
 ## 更新履歴
 
-### 最終更新 2020年8月7日
+### 最終更新 2020年8月8日
+- [96e6df5](https://github.com/shimajima-eiji/Article/commit/96e6df5b05b10785479ca7a7834054bb87c3ef55) [2020/08/07][CHANGELOG] 最新化 (@shimajima-eiji)
 - [90cd6fb](https://github.com/shimajima-eiji/Article/commit/90cd6fb92b0024a426f2cadebb5bfd2405bc85e5) [2020/08/06][CHANGELOG] 最新化 (@shimajima-eiji)
 - [fcf3ffa](https://github.com/shimajima-eiji/Article/commit/fcf3ffa755d022a7bb6fdcc08843566a6326af45) Create 2020-07-27-バースデープレゼントやお祝いをくれる友達のために自分ができることを考える.md (@shimajima-eiji)
 - [fa71e63](https://github.com/shimajima-eiji/Article/commit/fa71e63ac1318ce49e190f44b969342d12eab9f9) Create 2020-07-24-「カタンの開拓者たち」をソロプレイでずっと遊び続けられるステキアプリを見つけた！.md (@shimajima-eiji)
