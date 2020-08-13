@@ -1,6 +1,8 @@
 ## 更新履歴
 
-### 最終更新 2020年8月11日
+### 最終更新 2020年8月14日
+- [d9d0106](https://github.com/shimajima-eiji/Article/commit/d9d01068cca6184adc962ea29507e91160fb2289) Create 2020-08-13-GASでスクレイピングするなら「Cheeriosgs」が便利！最低賃金APIを作ってみる.md (@shimajima-eiji)
+- [7d033d5](https://github.com/shimajima-eiji/Article/commit/7d033d54dd831067e09036953f42df1779f6e47f) [2020/08/11][CHANGELOG] 最新化 (@shimajima-eiji)
 - [d3a1ac8](https://github.com/shimajima-eiji/Article/commit/d3a1ac84d32d0623a394ed1f2eca7d87198132fc) [2020/08/10][CHANGELOG] 最新化 (@shimajima-eiji)
 - [6f64464](https://github.com/shimajima-eiji/Article/commit/6f64464481952b75987b43f3a993244a7e01842d) [2020/08/09][CHANGELOG] 最新化 (@shimajima-eiji)
 - [881a8d6](https://github.com/shimajima-eiji/Article/commit/881a8d610c1b27b975b7e9677cedd3a7689cbdfa) [2020/08/08][CHANGELOG] 最新化 (@shimajima-eiji)
