@@ -1,1 +1,2 @@
-https://zenn.dev/nomuraya
+- アカウント: https://zenn.dev/nomuraya
+- 専用リポジトリ: https://github.com/shimajima-eiji/__Article_Zenn
